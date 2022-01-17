@@ -109,5 +109,5 @@ flutter run
 ## Socials
 If you have any questions, you can reach me here:
 
-- Instagram: [@31carlton7](https://www.instagram.com/31carlton7/)
-- Email: carltonaikins7@gmail.com
+- Instagram: [shashvatsingham](https://www.instagram.com/shashvatsingham/)
+- Email: shashvatsingham2001@gmail.com
